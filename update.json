@@ -1,0 +1,10 @@
+{
+  "versionName": "2.25",
+  "versionCode": 6,
+  "updateAvailable": false,
+  "forceUpdate": false,
+  "title": "MODDY update available",
+  "message": "A newer version of MODDY is ready.",
+  "releaseNotes": "First update system test.",
+  "downloadUrl": ""
+}
